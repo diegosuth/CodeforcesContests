@@ -1,1 +1,1 @@
-# Contests varios de codeforces escritos en c++
+# Compilation of the code I did for different codeforces contests
