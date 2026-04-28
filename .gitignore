@@ -1,5 +1,14 @@
-/.DS_Store
-/codewars2025
-/danimaniaprac1
-/frequencycounter
-/planillabase.cpp
+#Ignora everything
+*
+#except the folders
+!*/
+#and any file with an extension
+!*.*
+.DS_Store
+#this ones I dont want to ignore
+!Makefile
+!.gitignore
+codewars2025/
+danimaniaprac1/
+frequencycounter/
+planillabase.cpp
